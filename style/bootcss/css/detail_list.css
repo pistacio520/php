@@ -1,0 +1,49 @@
+table{
+	background: #ccc;
+
+	line-height: 47px;
+}
+.table>tbody>tr>td{
+		vertical-align:middle;
+}	
+table tbody{
+	color:#000001;
+}
+
+table tbody a{
+	color:#000001;
+	text-decoration: none;
+}
+a:hover{
+	color:#fffffe;
+	text-decoration: none;
+}
+
+.container{
+	width:100%;
+	height:825px;
+	margin-top:50px;
+	padding:20px 20px!important;
+	background:#eeeeee;
+}
+
+
+.row h2{
+	font-size: 30px;
+	padding:2px;
+
+}
+
+.header{
+	padding:20px;
+}
+
+
+.footer{
+	position:absolute;
+	width:100%;
+	bottom:0;
+	height:70px;
+	border-top:1px solid #cdd;
+
+}

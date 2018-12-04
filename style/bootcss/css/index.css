@@ -1,0 +1,28 @@
+body{
+	background:url('../../images/background.png') repeat;
+}
+
+
+.row div{
+	border:1px solid red;
+	background:#eee;
+}
+
+#k.bs-callout{
+	padding:20px;
+	margin:20px 0;
+	border:1px solid #eee;
+	border-left-width:5px;
+	border-radius:3px;
+}
+
+#k.bs-callout-info{
+	border-left-color:#1b809e;
+}
+.w980{
+	width:980px;
+}
+
+.bs-example p{
+	padding:15px;
+}

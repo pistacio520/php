@@ -1,0 +1,43 @@
+
+.container{
+	width:100%;
+	margin-top:50px;
+	padding:20px 20px!important;
+	background:#eeeeee;
+}
+
+.container{
+	position:relative;
+}
+.form-group>label{
+     width:100px;
+}
+.form-group{
+	display:block !important;
+	padding:10px 0;
+}
+.form-group>input,.form-group>select{
+	width:298px!important;
+}
+
+
+.form-group>input[name=description]{
+	width:700px!important;
+}
+/*.progressBar{
+	display:none;
+	background-color:#fff;
+	height:8px;width:100px;
+	border-radius:3px;
+	border:1px solid #CCC;}
+.progressBar span{
+		display:block;height:8px;width:0px;background-color:green;
+	}*/
+.content{
+	width:1000px;
+	height:900px;
+	margin-left:30px;
+	margin-top:30px;
+	padding-left:30px;
+	background: #ccc;
+}
